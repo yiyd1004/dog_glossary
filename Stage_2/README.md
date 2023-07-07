@@ -1,7 +1,7 @@
 # Requested dog breed
 
 <div class="step-text">
-<h5 id="description">Description</h5>
+<h3 id="description">Description</h3>
 <p>Now, we will get the breed name from the user and show a picture of that breed instead of a random breed.</p>
 <p>Look at the endpoints in the API documentation again and notice the one where we can enter different breed names and get a picture.</p>
 <p>Add <code class="java">input</code> with the ID of <code class="java">input-breed</code> and the placeholder of <code class="java">Enter a breed</code>. Optionally, add a <code class="java">label</code> too, but the tests won't check it.</p>
@@ -13,7 +13,7 @@
 <li>Another case to handle is when users enter an unknown input, show a paragraph that says <code class="java">Breed not found!</code> instead of an image.</li>
 </ul>
 <p>You can use the IDs we've provided to select the elements.</p>
-<h5 id="objectives">Objectives</h5>
+<h3 id="objectives">Objectives</h3>
 <p>Your page should:</p>
 <ul>
 <li>Contain <code class="java">input</code> with the ID of <code class="java">input-breed</code> and the placeholder <code class="java">Enter a breed</code>;</li>
@@ -22,7 +22,7 @@
 <li>Display the input breed's image from the API;</li>
 <li>Handle an unknown input and show a paragraph with the text <code class="java">Breed not found!</code></li>
 </ul>
-<h5 id="examples">Examples</h5>
+<h3 id="examples">Examples</h3>
 <p><strong>Example 1:</strong> <em>Enter a breed name and click the button</em></p>
 <p><img alt="Dog Glossary: Enter a breed name and click the button" height="550" name="eg2-dog.png" src="https://ucarecdn.com/2abc2571-9501-4b7c-ad4c-0b81233e21fb/" width="550"/></p>
 <p><strong>Example 2</strong>:<em> after entering an unknown breed name and clicking the button</em></p>
