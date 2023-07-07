@@ -9,5 +9,5 @@
 </ul>
 <h3 id="example">Example</h3>
 <p><strong>Example 1</strong>:</p>
-<p><img alt="dog glossary page design" height="828" name="Dog_Glossary.png" src="https://ucarecdn.com/76e05e79-158d-42d2-a37b-b8de909989d5/" width="1474"/></p>
+<p><img alt="dog glossary page design" name="Dog_Glossary.png" src="https://ucarecdn.com/76e05e79-158d-42d2-a37b-b8de909989d5/" width="1474"/></p>
 </div>
